@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gs099470-ui.github.io/cinebuzz/sitemap.xml
